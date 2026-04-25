@@ -1,8 +1,10 @@
-# 🧠 The Code Minds | Engineering Intelligence
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheCodeMinds/thecodeminds/main/assets/1.png" alt="The Code Minds Banner" width="100%">
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Founded-July%202022-blue?style=for-the-badge" alt="Founded 2022">
-  <img src="https://img.shields.io/badge/Focus-Software%20%7C%20AI%20%7C%20Automation-green?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Founded-July%202022-6f42c1?style=for-the-badge" alt="Founded 2022">
+  <img src="https://img.shields.io/badge/Focus-Software%20%7C%20AI%20%7C%20Automation-007bff?style=for-the-badge" alt="Focus">
 </p>
 
 ---
